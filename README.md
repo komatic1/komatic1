@@ -11,8 +11,6 @@
 
 🔭 I’m currently working as Junior Front-End Developer!
 
-🤔 I think nothing is impossible - there is a lack of information and time 
-
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dmytro-dmytriiev/)
 
 ### :hammer_and_wrench: Languages and Tools :
