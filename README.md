@@ -9,8 +9,6 @@
 
 <h1 align="center"> Hi there 👋 </h1>
 
-🔭 I’m currently working as Junior Front-End Developer!
-
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/dmytro-dmytriiev/)
 
 ### :hammer_and_wrench: Languages and Tools :
